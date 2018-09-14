@@ -47,7 +47,6 @@ void if_palindrome(char *str) {
 	else cout << "Not a palindrome" << endl << endl;
 }
 
-
 int main()
 {
 	srand(time(NULL));
